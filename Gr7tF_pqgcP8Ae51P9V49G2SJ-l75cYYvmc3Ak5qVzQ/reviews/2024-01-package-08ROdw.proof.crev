@@ -1,0 +1,22 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2024-01-15T20:49:35.178860+09:00
+from:
+  id-type: crev
+  id: Gr7tF_pqgcP8Ae51P9V49G2SJ-l75cYYvmc3Ak5qVzQ
+  url: https://github.com/itepechi/crev-proofs
+package:
+  source: https://crates.io
+  name: wyhash
+  version: 0.5.0
+  revision: 0052134664c9259a590f3fa6c3a62bb1b5bf737d
+  digest: YkDRsLsO20vFSPEc0-BDZEW7BnKQoogZ76tC78enzt8
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+Uohc6rcuyi_wxgg8ERyJHPZMfzFQTFEtewlALq3IM2-VJFOfwahwLEXfojJaJakzwN8VvCBjXhFMe85m52VSCw
+----- END CREV PROOF -----
+
