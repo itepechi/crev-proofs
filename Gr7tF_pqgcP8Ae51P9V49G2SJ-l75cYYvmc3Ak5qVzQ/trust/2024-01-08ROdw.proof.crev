@@ -94,3 +94,20 @@ trust: medium
 YwrjYM9JEeDZthRfpb9CEi7qFJ-1Jb2S8MnyyGDcXsNx7-IMKPL4K1DkyNM2PhaO8tlEs17zCEhCGsXdEQ74BQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: 2024-01-18T01:33:29.202654+09:00
+from:
+  id-type: crev
+  id: Gr7tF_pqgcP8Ae51P9V49G2SJ-l75cYYvmc3Ak5qVzQ
+  url: https://github.com/itepechi/crev-proofs
+ids:
+- id-type: crev
+  id: VylyTuk8CMGqIxgHixWaqfiUn3xZyzOA1wFrQ0sR1As
+  url: https://github.com/BurntSushi/crev-proofs
+trust: medium
+----- SIGN CREV PROOF -----
+A6YrSCiG8cWydzVgGYUeT_vD6G8ExmvfsQkNRpjoGvFLySVNEdYXt7OUKOAHeyoX5muf4m1a0fBepePA6dSzAg
+----- END CREV PROOF -----
+
