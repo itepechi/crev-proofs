@@ -1,0 +1,22 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2024-03-28T11:50:36.289949+09:00
+from:
+  id-type: crev
+  id: Gr7tF_pqgcP8Ae51P9V49G2SJ-l75cYYvmc3Ak5qVzQ
+  url: https://github.com/itepechi/crev-proofs
+package:
+  source: https://crates.io
+  name: is_ci
+  version: 1.2.0
+  revision: 5e7959455a90cf9a00cafbbd533ea25d747a07d3
+  digest: 1fVmg7lmJb6HXyFvcRg2MMOJc3vgHSbteuoHqes23dI
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+R1j71s-wHRefO7zsd__dWDv_JTNgbfPHwXlewmHpsFdOXK3e4ZBCKxiOwC51OeY9UNvfZh5OCKkgnZKD1EY-Dw
+----- END CREV PROOF -----
+
